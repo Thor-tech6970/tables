@@ -1,0 +1,2 @@
+rootProject.name='My Tables App'
+include ':app'
